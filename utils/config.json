@@ -1,0 +1,11 @@
+{
+  "name": "Experiment",
+  "data_loader": {
+    "args": {
+      "data_dir": "data/raw"
+    }
+  },
+  "trainer": {
+    "save_dir": "saved/"
+  }
+}
